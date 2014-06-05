@@ -1,0 +1,23 @@
+{
+  "name": "passwordless-tokenstore",
+  "version": "0.0.1",
+  "description": "Abstract class of a TokenStore for Passwordless",
+  "main": "index.js",
+  "author": "Florian Heinemann <florian.heinemann@gmail.com> (http://twitter.com/thesumofall)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/florianheinemann/passwordless-tokenstore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/florianheinemann/passwordless-tokenstore/issues"
+  },
+  "homepage": "https://github.com/florianheinemann/passwordless-tokenstore",
+  "keywords": [
+    "passwordless",
+    "nopassword",
+    "no-password",
+    "password-less",
+    "tokenstore"
+  ]
+}
