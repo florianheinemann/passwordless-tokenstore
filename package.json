@@ -19,5 +19,8 @@
     "no-password",
     "password-less",
     "tokenstore"
-  ]
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
