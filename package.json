@@ -1,6 +1,6 @@
 {
   "name": "passwordless-tokenstore",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Abstract class of a TokenStore for Passwordless",
   "main": "index.js",
   "author": "Florian Heinemann <florian.heinemann@gmail.com> (http://twitter.com/thesumofall)",
